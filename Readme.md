@@ -12,4 +12,8 @@ MS in Civil Engineering
 
 BEng in Water Supply and Drainage Engineering
 
+## Research Interests
+
+Hongyan studies municipal water and wasterwater system. She is interested in understanding how the microbial communities impact the water environment and how they could be utilized in pursuing sustainablity.
+
 
